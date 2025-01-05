@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #define LED_PIN 8
 
-unsigned long time_1 = 0;
+unsigned long time_1 = 1;
 unsigned long time_2 = 0;
 
 
