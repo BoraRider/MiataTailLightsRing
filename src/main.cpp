@@ -3,6 +3,9 @@
 
 unsigned long time_1 = 1;
 unsigned long time_2 = 0;
+void setColour();
+
+void setColour() {}
 
 
 void setup() {
